@@ -4,7 +4,7 @@
 
 ![snowslide_oled](snowslide_oled.jpg)
 
-The Snowslide is an unibody split keyboard taking the [Avalanche](https://github.com/vlkv/avalanche/) as inspiration for the extra pinky keys and the idea from Jesus Climent to move a thumb key to the palm location. One of avalanche's inner thumb key has also been moved to an index inner key position.
+The Snowslide is an unibody split keyboard taking the [Avalanche](https://github.com/vlkv/avalanche/) as inspiration for the extra pinky keys and the idea from Jesus Climent to move a thumb key to the palm location. One of avalanche's inner thumb key has also been moved to an index inner key position. The PCB was kindly done by [Jesus Climent](https://github.com/climent) as I don't have any electronic knowledge :D
 
 The oled screen is a mashup of multiple sources for layer indicator and key status (forgot where I found them), [bongo cat](https://www.reddit.com/r/MechanicalKeyboards/comments/nhc7rf/made_my_own_version_of_bongo_cat_oled_animation/) trimmed a bit to fit half screen. Toad and main layer indicator are adapted from pixel art found on Internet.
 
