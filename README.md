@@ -2,11 +2,13 @@
 
 ![snowslide](snowslide.jpg)
 
-The Snowslide is an unibody split keyboard taking the
-[Avalanche](https://github.com/vlkv/avalanche/) as inspiration.
+The Snowslide is an unibody split keyboard taking the [Avalanche](https://github.com/vlkv/avalanche/) as inspiration for the extra pinky keys and the idea from Jesus Climent to move a thumb key to the palm location. One of avalanche's inner thumb key has also been moved to an index inner key position.
+
+The oled screen is a mashup of multiple sources for layer indicator and key status (forgot where I found them), [bongo cat](https://www.reddit.com/r/MechanicalKeyboards/comments/nhc7rf/made_my_own_version_of_bongo_cat_oled_animation/) trimmed a bit to fit half screen. Toad and main layer indicator are adapted from pixel art found on Internet.
 
 * Keyboard Maintainer: [Jesus Climent](https://github.com/climent)
 * Hardware Availability: Snowslide gerber files can be found [here](https://github.com/climent/avalanche/tree/snowslide)
+* [Firmware](https://github.com/Geobert/qmk_firmware/tree/geob-bepo-layout/keyboards/snowslide) (very simple default layout, or bépo layout that I use)
 
 ## Bill of material
 
@@ -28,7 +30,7 @@ The Snowslide is an unibody split keyboard taking the
 Optional
 
 * OLED, ssd1306 128x32 or 128x64 as you like, the latter looks better
-* rotary encoders EC11, If you are not sure take EC11E. *NEEDS TO SAY HOW MUCH MAX*
+* rotary encoders EC11, If you are not sure take EC11E. WARNING: my build doesn't include encoder so it wasn't tested.
 
 ## Steps
 
