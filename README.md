@@ -20,7 +20,7 @@ The oled screen is a mashup of multiple sources for layer indicator and key stat
 * 64 keyboard MX switch sockets by Kailh (or less if you put encoders instead of keys)
 * 64 keyboard MX switches (or less if you choose encoders)
 * Keycaps, number according to the number of switches
-* 64 (or less if you choose encoders) diodes 1N4148W or *what are the other possible diodes?*
+* 64 (or less if you choose encoders) diodes 1N4148W or through hole resistors (but I don't know the reference, the ones used in ergodash should do)
 * 1 tactile button, through-hole, 2 pins, that faces 90 degrees on the board (ex: https://www.aliexpress.com/item/32804448340.html)
 * 11 M2 spaces, 6mm height
 * 22 M2 screws, height has to be long enough to fix a 1.6mm thick PCB to the spacer, and short enough so two of them can fit in one spacer
